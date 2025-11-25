@@ -1,0 +1,11 @@
+# Cac file/thu muc he thong dang gay loi Permission Denied
+$RECYCLE.BIN/
+System Volume Information/
+
+# Thu muc tam thoi cua Jupyter
+.ipynb_checkpoints/
+
+# Thu muc cau hinh cua cac cong cu
+anaconda/
+miniconda/
+Git/

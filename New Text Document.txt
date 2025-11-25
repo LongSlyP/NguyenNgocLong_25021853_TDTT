@@ -1,0 +1,7 @@
+# Bỏ qua Thùng rác (Recycle Bin) của Windows
+$RECYCLE.BIN/
+
+# Bỏ qua các file khác nếu cần (ví dụ: các file đã được thấy trong ảnh trước)
+.ipynb_checkpoints/
+anaconda/
+miniconda/
